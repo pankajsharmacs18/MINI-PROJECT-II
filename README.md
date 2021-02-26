@@ -1,2 +1,3 @@
 # MINI-PROJECT-II
-Academic MINI PROJECT
+## PROJECT MEMBERS
+1. Bharat Sharma
